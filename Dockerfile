@@ -1,4 +1,4 @@
-FROM Ubuntu:latest
+FROM ubuntu:latest
 LABEL maintainer="patryk.koryga@pollub.edu.pl"
 LABEL description="Przykladowy Dockerfile dla serwera Apache & PHP."
 ENV PHPVERSION=7
